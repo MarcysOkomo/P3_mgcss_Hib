@@ -6,7 +6,6 @@
 package casospoliciales;
 
 import java.util.Scanner;
-import org.apache.derby.impl.store.raw.xact.EscalateContainerKey;
 
 /**
  *
